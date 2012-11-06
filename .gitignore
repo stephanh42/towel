@@ -1,0 +1,8 @@
+# Build files
+build/
+# Compiled Python files
+*.pyc
+# Vim backup files
+*~
+# Vim swap files
+.*.swp
